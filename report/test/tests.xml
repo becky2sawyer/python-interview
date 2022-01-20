@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.105" timestamp="2022-01-20T11:22:06.489660" hostname="m.local"><testcase classname="python_interview.test_python-interview" name="test_ping" time="0.002" /></testsuite></testsuites>

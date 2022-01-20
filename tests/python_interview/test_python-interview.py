@@ -1,8 +1,8 @@
 import sys
-import python-interview
+import python_interview
 
 
 def test_ping():
     sys.argv = ['foo', '10']
-    python-interview.ping()
+    python_interview.ping()
 
