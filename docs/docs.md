@@ -1,1 +1,1 @@
-::: python-interview
+::: python_interview
